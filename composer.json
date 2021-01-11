@@ -1,6 +1,6 @@
 {
     "name": "morozco/DataSearch",
-    "type": "project",
+    "type": "library",
     "license": "GPL",
     "authors": [
         {
